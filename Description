@@ -1,0 +1,12 @@
+# Developing a Hybrid Algorithm that Combine Rule-based and Machine Learning Methods to Detect Social Engineering Attacks
+
+[![DOI](10.5281/zenodo.23961398)
+[![Journal](https://journal.hcsr.gov.sy/?p=2147)
+
+
+Official repository for the research paper **"Developing a Hybrid Algorithm that Combine Rule-based and Machine Learning Methods to Detect Social Engineering Attacks"**, published in the *Syrian Journal for Science and Innovation (SJSI)*, Volume 4, Issue 3 (2026) by **Dana Najeeb** and **Dr. Basel Al-Khatib** (Syrian Virtual University).
+
+## Abstract Overview
+The study proposes a hybrid detection algorithm combining automated rule-based methods, dynamic topic blacklists, natural language processing, and machine learning to counter social engineering attacks. Trained and tested on 50,000 Kaggle emails, the model achieved a **97.40%** accuracy rate. 
+
+*(For full repository details, structure, installation prerequisites, usage instructions, BibTeX/APA citations, and CC BY 4.0 licensing, please refer to the complete markdown template structure provided in the source repository).*
